@@ -19,7 +19,7 @@ pip install numpy
 ```
 4. Córralos directamente desde el IDE de python o instale un entorno de programación de su gusto (ejemplo, Visual Studio Code).
 
-Para la ejecución del código de Matlab:
+Para la ejecución del código de Matlab (.m):
 
 * Acceda a su cuenta de Matlab. [Si es la versión online](https://matlab.mathworks.com/), arrastre el archivo a correr a la columna Files. Desde ahí
 ábralo y podrá correrlo con el botón Run (atajo F5).
