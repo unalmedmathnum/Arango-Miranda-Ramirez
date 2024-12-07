@@ -4,6 +4,8 @@
  * Felipe Miranda
  * J. Smith Ramírez
 
+*Los archivos .ipynb se deben abrir con Jupyter. El archivo .mlx se debe abrir usando Matlab.
+
 Para la ejecución de las pruebas de notebooks de Jupyter:
 
 1. [Instale Python 3](https://www.python.org/downloads/ "Install Python").
