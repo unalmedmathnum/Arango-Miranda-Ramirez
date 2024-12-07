@@ -15,12 +15,16 @@ pip install jupyterlab
 ```bash
 pip install sympy
 ```
-4. Inicialice Jupyter desde la consola o abra su respectiva aplicación.
+4. [Instale la librería NumPy](https://numpy.org/install/) para Python.
+```bash
+pip install numpy
+```
+5. Inicialice Jupyter desde la consola o abra su respectiva aplicación.
 ```bash
 jupyter notebook
 ```
-5. Busque el archivo desde jupyter y súbalo a Jupyter. Ábralo.
-6. Podrá leer la información correspondiente o volverlo a correr desde Cell => Run All.
+6. Busque el archivo desde jupyter y súbalo a Jupyter. Ábralo.
+7. Podrá leer la información correspondiente o volverlo a correr desde Cell => Run All.
 
 Para la ejecución de las pruebas de Matlab:
 
